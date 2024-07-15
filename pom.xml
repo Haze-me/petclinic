@@ -460,8 +460,7 @@
                     </to>
                 </configuration>
             </plugin>
-
-                 <plugins>
+                 
       <plugin>
         <groupId>org.owasp</groupId>
         <artifactId>dependency-check-maven</artifactId>
@@ -474,7 +473,6 @@
           </execution>
         </executions>
       </plugin>
-    </plugins>
 
         </plugins>
     </build>
