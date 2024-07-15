@@ -395,8 +395,6 @@
                 </executions>
             </plugin>
 
-    <!-- Other project configuration -->
-
     <properties>
         <!-- JaCoCo Properties -->
         <jacoco.version>0.8.6</jacoco.version>
@@ -406,11 +404,10 @@
         <sonar.language>java</sonar.language>
     </properties>
 
-    <!-- Other plugin configurations -->
+   
 
-    <build>
+   <!-- <build>
         <plugins>
-            <!-- Other plugins -->
 
             <plugin>
                 <groupId>org.jacoco</groupId>
@@ -433,9 +430,8 @@
                 </executions>
             </plugin>
 
-            <!-- Other plugins -->
         </plugins>
-    </build>
+    </build> -->
 
     <!-- Other project configuration -->
 
