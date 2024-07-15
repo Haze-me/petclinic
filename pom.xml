@@ -395,7 +395,6 @@
                 </executions>
             </plugin>
 
-<project>
     <!-- Other project configuration -->
 
     <properties>
@@ -453,7 +452,6 @@
     </build>
 
     <!-- Other project configuration -->
-</project>
 
                  
             <!--Specify the encoding for copying resources-->
